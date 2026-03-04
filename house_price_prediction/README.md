@@ -17,6 +17,4 @@ We build a **Linear Regression model** to predict house prices.
 1. Install requirements:
 
 ```bash
-pip install -r requirements.txt# house-price-prediction
-# house-price-prediction
-# house-price-prediction
+pip install -r requirements.txt
